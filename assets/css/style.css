@@ -222,6 +222,7 @@ section {
   font-weight: 900;
   text-transform: capitalize;
   color: #111;
+  text-align: center;
 }
 
 .section-heading h4 em {
